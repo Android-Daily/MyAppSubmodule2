@@ -1,0 +1,1 @@
+# MyAppSubmodule2
