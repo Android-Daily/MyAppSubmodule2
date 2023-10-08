@@ -6,7 +6,7 @@ package com.test.mysubmodule2
  * description :
  */
 class SubModule2 {
-    var name = "SubModule2"
+    var name = "SubModule2-dev1"
 
     fun setSubModuleName(name: String) {
         this.name = name
